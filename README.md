@@ -17,8 +17,8 @@ Choose operation:
 >Give plane ID: HA-LOL
 >Give plane capacity: 42
 >Choose operation:
-[1] Add airplane
-[2] Add flight
+/[1] Add airplane
+/[2] Add flight
 [x] Exit
 > 1
 Give plane ID: G-OWAC
