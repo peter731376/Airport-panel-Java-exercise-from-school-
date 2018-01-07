@@ -11,11 +11,12 @@ When the user exits the airport panel, the user then proceeds to use the flight 
 Airport panel
 --------------------
 
-- Choose operation:
-- [1] Add airplane
-- [2] Add flight
-- [x] Exit
-- >1
+	Choose operation:
+	[1] Add airplane
+	[2] Add flight
+	[x] Exit
+	>1
+
 - Give plane ID: HA-LOL
 - Give plane capacity: 42
 - Choose operation:
